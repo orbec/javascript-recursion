@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-javascript-template",
+  "name": "javascript-recursion",
   "version": "1.0.0",
-  "description": "project template for javascript projects based in NodeJs with Webpack",
+  "description": "javascript recursion project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/orbec/nodejs-javascript-template.git"
+    "url": "git+ssh://git@github.com:orbec/javascript-recursion.git"
   },
   "keywords": [
     "Nodejs",
-    "template",
+    "recursion",
     "javascript"
   ],
   "author": "jalopezing@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/orbec/nodejs-javascript-template/issues"
+    "url": "https://github.com/orbec/javascript-recursion"
   },
-  "homepage": "https://github.com/orbec/nodejs-javascript-template#readme",
+  "homepage": "https://github.com/orbec/javascript-recursion#readme",
   "devDependencies": {
     "@babel/core": "^7.25.9",
     "@babel/preset-env": "^7.25.9",
